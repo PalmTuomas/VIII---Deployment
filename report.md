@@ -17,8 +17,6 @@ CI pipeline runs automatically on push.
 ## 4. Coveralls
 Coverage reporting integrated with Coveralls.
 
-(ADD LINK HERE)
-
 ## 5. Approach
 - Jest for testing
 - GitHub Actions for CI
